@@ -1,0 +1,8 @@
+arrowParens: always
+bracketSpacing: true
+endOfLine: lf
+printWidth: 90
+semi: false
+singleQuote: true
+trailingComma: es5
+useTabs: false
