@@ -1,0 +1,11 @@
+# nodejs folder
+node_modules
+
+# docker files
+nginx.Dockerfile
+docker-compose.yml
+
+# config files
+.env
+nodemon.json
+.http
